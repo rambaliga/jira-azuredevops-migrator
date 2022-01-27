@@ -9,8 +9,8 @@ queue:
   - npm
 
 variables:
-  BuildPlatform: 'any cpu'
-  BuildConfiguration: 'release'
+  BuildPlatform: ''
+  BuildConfiguration: ''
   major: 2
   minor: 3
 
